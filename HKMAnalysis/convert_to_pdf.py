@@ -9,7 +9,7 @@ input_file = notebook_path
 output_file = notebook_path.split("/")[-1].split(".")[0] + ".pdf"
 
 title = 'Analysis of Chanting Effects of Hare Krishna Mantra with EEG Aquisition System'
-authors = ["Karthik M Dani", "Namyatha N Mulbagal"]
+authors = ["Karthik M Dani"]
 date = "2024-06-05"
 abstract = ""
 
@@ -44,4 +44,3 @@ except subprocess.CalledProcessError as e:
     print(f"Error during conversion: {e}")
 
 #os.system(pandoc_command)
-
