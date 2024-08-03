@@ -1,14 +1,14 @@
 Parameter,% Change from Before to During Chant,% Change from During to After Chant,% Change from After to Before Chant
-IAPF,Increased by 0.19 %,Decreased by 0.45 %,Decreased by 0.26 %
-Baseline Fatigue score,Decreased by 20.96 %,Increased by 3.85 %,Decreased by 22.66 %
-Baseline Concentration index,Decreased by 41.64 %,Increased by 16.12 %,Decreased by 55.25 %
-Concentration index,Decreased by 51.05 %,Increased by 12.20 %,Decreased by 92.11 %
-Baseline Relaxation index,Decreased by 9.32 %,Increased by 0.36 %,Decreased by 9.93 %
-Theta peak frequency,Increased by 1.55 %,Decreased by 6.88 %,Decreased by 5.35 %
-Alpha peak frequency,Increased by 4.20 %,Decreased by 5.07 %,Decreased by 1.03 %
-Beta peak frequency,Decreased by 3.00 %,Decreased by 5.06 %,Decreased by 8.16 %
-Chill,Increased by 40.83 %,Decreased by 18.30 %,Increased by 10.69 %
-Stress,Decreased by 18.49 %,Decreased by 0.05 %,Decreased by 22.74 %
-Focus,Decreased by 1.63 %,Decreased by 6.07 %,Decreased by 7.73 %
-Anger,Decreased by 5.03 %,Decreased by 8.73 %,Decreased by 14.03 %
-Self-control,Increased by 28.48 %,Decreased by 13.21 %,Increased by 8.95 %
+IAPF,Decreased by 1.87 %,Increased by 0.13 %,Decreased by 1.78 %
+Baseline Fatigue score,Decreased by 21.17 %,Increased by 11.50 %,Decreased by 15.36 %
+Baseline Concentration index,Increased by 177.24 %,Decreased by 74.08 %,Decreased by 10.15 %
+Concentration index,Increased by 115.90 %,Decreased by 60.59 %,Decreased by 6.91 %
+Baseline Relaxation index,Increased by 0.95 %,Decreased by 1.49 %,Decreased by 0.55 %
+Theta peak frequency,Increased by 2.30 %,Decreased by 4.36 %,Decreased by 2.11 %
+Alpha peak frequency,Increased by 6.98 %,Decreased by 4.78 %,Increased by 1.75 %
+Beta peak frequency,Decreased by 0.93 %,Decreased by 1.97 %,Decreased by 2.91 %
+Chill,Increased by 35.94 %,Decreased by 20.14 %,Increased by 6.30 %
+Stress,Decreased by 10.64 %,Increased by 0.97 %,Decreased by 10.94 %
+Focus,Increased by 0.83 %,Decreased by 5.02 %,Decreased by 4.20 %
+Anger,Increased by 8.13 %,Decreased by 7.57 %,Decreased by 0.05 %
+Self-control,Increased by 18.70 %,Decreased by 12.86 %,Increased by 2.90 %

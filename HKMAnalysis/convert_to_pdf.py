@@ -10,7 +10,7 @@ output_file = notebook_path.split("/")[-1].split(".")[0] + ".pdf"
 
 title = 'Analysis of Chanting Effects of Hare Krishna Mantra with EEG Aquisition System'
 authors = ["Karthik M Dani"]
-date = "2024-06-05"
+date = "2024-07-20"
 abstract = ""
 
 keywords = "EEG, Hare Krishna Mantra, Signal Acquisition, Brain Activity, EEG Band"
