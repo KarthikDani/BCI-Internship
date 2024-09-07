@@ -12,4 +12,7 @@ eeg_analysis.egg-info/dependency_links.txt
 eeg_analysis.egg-info/entry_points.txt
 eeg_analysis.egg-info/requires.txt
 eeg_analysis.egg-info/top_level.txt
+eeg_analysis/data/after.csv
+eeg_analysis/data/before.csv
+eeg_analysis/data/during.csv
 eeg_analysis/data/id_iskcon_data.csv

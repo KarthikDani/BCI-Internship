@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.1.0'
+VERSION = '0.1.3'
 DESCRIPTION = "A library for processing and plotting EEG data"
 
 with open("README.md", "r") as f:

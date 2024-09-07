@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: eeg-analysis
-Version: 0.1.0
+Version: 0.1.3
 Summary: A library for processing and plotting EEG data
 Home-page: https://github.com/KarthikDani/PHCCOProject/tree/main/gsmm
 Author: Karthik Dani
