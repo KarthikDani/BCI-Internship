@@ -1,0 +1,17 @@
+1. IAPF (Hz.) shows decrease of 1.95% during the chanting. After completion of chant, a net decrease of 8.12%.
+2. Theta peak frequency (Hz.) shows decrease of 1.19% during the chanting. After completion of chant, a net increase of 3.50%.
+3. Alpha peak frequency (Hz.) shows increase of 16.74% during the chanting. After completion of chant, a net increase of 3.44%.
+4. Beta peak frequency (Hz.) shows decrease of 1.11% during the chanting. After completion of chant, a net increase of 1.78%.
+5. Baseline Alpha Gravity (Alpha1 / Alpha2 Power) shows increase of 357.08% during the chanting. After completion of chant, a net increase of 1128.91%.
+6. Alpha Gravity (Alpha1 / Alpha2 Power) shows increase of 330.35% during the chanting. After completion of chant, a net increase of 1523.87%.
+7. Baseline Fatigue score (Alpha /Theta /Beta Power) shows decrease of 17.28% during the chanting. After completion of chant, a net increase of 20.49%.
+8. Fatigue score (Alpha /Theta /Beta Power) shows increase of 2.39% during the chanting. After completion of chant, a net increase of 17.14%.
+9. Baseline Concentration index (Beta/ Alpha Power) shows increase of 87.80% during the chanting. After completion of chant, a net increase of 59.49%.
+10. Concentration Index (Beta/ Alpha Power) shows increase of 18.71% during the chanting. After completion of chant, a net increase of 30.83%.
+11. Baseline Relaxation index (Alpha /Beta Power) shows increase of 63.62% during the chanting. After completion of chant, a net increase of 110.32%.
+12. Relaxation index  (Alpha /Beta Power) shows increase of 52.49% during the chanting. After completion of chant, a net increase of 30.58%.
+13. Chill shows increase of 55.85% during the chanting. After completion of chant, a net increase of 17.86%.
+14. Stress shows decrease of 16.11% during the chanting. After completion of chant, a net increase of 8.71%.
+15. Focus shows decrease of 7.71% during the chanting. After completion of chant, a net increase of 5.08%.
+16. Anger shows increase of 7.50% during the chanting. After completion of chant, a net increase of 12.96%.
+17. Self-control shows increase of 38.38% during the chanting. After completion of chant, a net increase of 24.21%.
